@@ -80,3 +80,13 @@ public/
         ↓
 [Second-stage Recommendations Based on Profile]
 ```
+
+---
+
+## Demo
+
+In this demo, the user writes a personalized restaurant review.  
+If the review contains enough information, the system immediately provides a second-stage recommendation based on the user's preferences.  
+If the information is insufficient, the system intelligently asks follow-up questions to better understand the user's taste.
+
+<img src="./public/assets/demo1.gif" width="800"/>
