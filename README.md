@@ -9,6 +9,11 @@
 
 ## Overview
 
+<img src="./public/assets/intro.png" width="800"/>
+<img src="./public/assets/coreprob.png" width="800"/>
+
+<img src="./public/assets/team.png" width="800"/>
+
 Built within 12 hours by a team of 1 UX designer and 3 software engineers, this project leverages Large Language Models (LLMs) to:
 
 - Analyze user preferences
@@ -89,4 +94,6 @@ In this demo, the user writes a personalized restaurant review.
 If the review contains enough information, the system immediately provides a second-stage recommendation based on the user's preferences.  
 If the information is insufficient, the system intelligently asks follow-up questions to better understand the user's taste.
 
+<img src="./public/assets/demo.png" width="800"/>
+<img src="./public/assets/demo0.png" width="800"/>
 <img src="./public/assets/demo1.gif" width="800"/>
