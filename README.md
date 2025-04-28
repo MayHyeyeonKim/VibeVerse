@@ -17,6 +17,48 @@ Built within 12 hours by a team of 1 UX designer and 3 software engineers, this 
 
 ---
 
+## Tech Stack
+
+- **Framework**: Next.js (App Router)
+- **Language**: TypeScript
+- **State Management**: React built-in state
+- **Styling**: Tailwind CSS
+- **Backend/API**: OpenAI API integration (via AI SDK)
+- **AI Integration**: AI SDK (OpenAI, Google)
+- **Database**: Local mock database
+- **Search Engine**: Orama (local vector search, data persistence plugin)
+- **Schema Validation**: Zod
+- **Animations**: Framer Motion
+- **Icon Library**: Lucide React, React Icons
+- **Database Seeding**: ts-node (TypeScript seed scripts)
+- **Config Tools**: ESLint, PostCSS, pnpm
+
+---
+
+## Folder Structure
+
+```
+src/
+├── app/
+│ ├── api/ # Backend API routes (chat, review creation, recommendation creation)
+│ ├── create_review/ # Pages for user review creation
+│ ├── create_recommendation/ # Pages for personalized recommendation creation
+│ ├── reviews/ # Review display pages
+│ ├── landing1/ # First landing page
+│ ├── landing2/ # Second landing page
+│ ├── recommend/ # Recommendation result pages
+│ ├── visit/ # Visit tracking pages
+│ ├── layout.tsx # App layout configuration
+│ └── page.tsx # Main entry page
+├── components/ # Reusable UI components (ChatBox, Layouts, etc.)
+├── db/ # Local database using Orama (mock data: places, reviews)
+├── lib/llm/ # LLM integration (prompt templates, review agents)
+public/
+└── assets/ # Static files and images
+```
+
+---
+
 ## Project Highlights
 
 - ✨ **LLM-Based Preference Analysis**: Understand user taste from minimal input
