@@ -1,5 +1,7 @@
 🏆 **Awarded the Consulate General of the Republic of Korea in Seattle Prize at Changbal Hackathon on April 26, 2025**
 
+🔗 **View all our repositories here**: [VibeVerse GitHub Organization](https://github.com/orgs/team1CB04262025/repositories)
+
 # Personalized Review and Recommendation System Powered by LLMs
 
 <img src="./public/assets/hack1.jpeg" width="800"/>
