@@ -4,9 +4,9 @@
 
 # Personalized Review and Recommendation System Powered by LLMs
 
+<img src="./public/assets/award_.png" width="800"/>
 <img src="./public/assets/hack1.jpeg" width="800"/>
 <img src="./public/assets/award.jpeg" width="800"/>
-<img src="./public/assets/award_.png" width="800"/>
 
 ## Overview
 
